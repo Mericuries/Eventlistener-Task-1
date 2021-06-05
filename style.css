@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ div{
+    width: 550px;
+    height: 200px;
+    border: 2px solid rgb(75, 159, 78);
+    background: rgb(200, 245, 200);
+    
+}
+
+.btn {
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+    margin: 0px;
+    margin-left: 510px;
+    color: red;
+    font-size: 16px;
+}
+    
+.btn2 {
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+    margin: 0px;
+    margin-left: 510px;
+    color: red;
+    font-size: 16px;
+}
+
